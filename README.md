@@ -1,5 +1,5 @@
 # CS-255-System-Analysis-and-Design--Business-Requirements-and-System-Design
-These documents were created for the DriverPass client where they seek to create a web-based program that will provide a better driver trainng for customers.
+These documents were created for the DriverPass client where they seek to create a web-based program that will provide a better driver training for customers.
 
 The DriverPass project was made for the owner of DriverPass which is a business that caters to helping people pass their driving exam.
 DriverPass wishes to create a web-based application that will provide online practice exams and on-the-road training which will better
